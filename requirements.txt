@@ -1,0 +1,14 @@
+cat > requirements.txt <<'EOF'
+streamlit
+numpy
+faiss-cpu
+torch
+pypdf
+python-docx
+sentence-transformers
+transformers
+sentencepiece
+accelerate
+protobuf
+deep-translator
+EOF
