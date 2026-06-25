@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Multilingual Document Assistant using RAG and Lightweight SLM
 
 This project is a multilingual document assistant that helps users upload a document once and perform multiple operations such as document translation, question answering, summarization, key point extraction, and report downloading.
